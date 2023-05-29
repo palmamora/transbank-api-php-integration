@@ -1,0 +1,1 @@
+Set the enviroment variables in env.php file.
